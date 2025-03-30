@@ -27,7 +27,7 @@ cd http-interceptor
 
 ## 🚀 Using
 
-To inject code into a running Python process, use [PyInjector](https://github. com/call-042PE/PyInjector):
+To inject code into a running Python process, use [PyInjector](https://github.com/call-042PE/PyInjector):
 
 ## 📊 Example output
 
