@@ -8,7 +8,7 @@
 
 ## 🔍 Description
 
-This tool injects itself into a Python process and intercepts all outgoing HTTP requests, including:
+This tool injects itself into a Python process and intercepts all outgoing HTTP/HTTPS requests, including:
 - Standard requests via `requests`
 - Asynchronous requests via `aiohttp`
 - Low-level TCP connections via `socket`
