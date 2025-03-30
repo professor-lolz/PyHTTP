@@ -20,8 +20,8 @@ All intercepted data is saved to a timestamped `logging.txt` file.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/http-interceptor.git
-cd http-interceptor
+git clone https://github.com/professor-lolz/PyHTTP.git
+cd PyHTTP
 ```
 2. Make sure you have Python 3.7+ installed
 
