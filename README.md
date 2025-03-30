@@ -55,4 +55,3 @@ This tool is intended only for:
 1. Testing the security of your own applications
 2. Debugging network communications
 
-Translated with DeepL.com (free version)
