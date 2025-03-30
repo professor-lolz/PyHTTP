@@ -1,6 +1,6 @@
 # PyHTTP Sniffer
 
-**Tool for intercepting HTTP requests from Python applications** 
+**Tool for intercepting HTTP/HTTPS requests from Python applications** 
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 
